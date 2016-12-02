@@ -9,3 +9,5 @@ Like the original, all versions use the one [ind3x/rpi-alpine-node](https://hub.
 but each version aligns with the following tags (ie, `ind3x/rpi-alpine-node:<tag>`).
 
 For more information, visit original [mhart/alpine-node](https://github.com/mhart/alpine-node) repository.
+
+*NOTE*: Tested on Raspberry Pi 2
